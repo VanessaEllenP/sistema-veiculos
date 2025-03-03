@@ -1,14 +1,14 @@
-🚗 Sistema de Gerenciamento de Cadastro de Veículos
-Um sistema de CRUD para gerenciamento de veículos, desenvolvido com Spring Boot no backend e React no frontend.
+🚗 Sistema de Gerenciamento de Cadastro de Veículos<br>
+<br>Um sistema de CRUD para gerenciamento de veículos, desenvolvido com Spring Boot no backend e React no frontend.  
 
-📌 Funcionalidades
-✔ Cadastro de veículos (marca, modelo, ano)
-✔ Listagem de veículos cadastrados
-✔ Edição de informações de veículos
-✔ Exclusão de veículos
-✔ Integração entre frontend (React) e backend (Spring Boot)
-
-🛠 Tecnologias Utilizadas
-Frontend: React, Bootstrap
-Backend: Spring Boot, Spring Data JPA
+📌 Funcionalidades <br>
+✔ Cadastro de veículos (marca, modelo, ano) <br>
+✔ Listagem de veículos cadastrados <br>
+✔ Edição de informações de veículos <br>
+✔ Exclusão de veículos <br>
+✔ Integração entre frontend (React) e backend (Spring Boot) <br>
+<br>
+🛠 Tecnologias Utilizadas <br>
+Frontend: React, Bootstrap <br>
+Backend: Spring Boot, Spring Data JPA <br>
 Banco de Dados: MySQL
